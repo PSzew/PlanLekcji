@@ -1,0 +1,3 @@
+Aplikacja przy pierwszym urchomieniu/po jakiejś stracie danych pyta uzytkownika o klase a następnie na podstawie tego przy kazdym urchomieniu wyswietla aktualny plan lekcji tej klasy załadowany ze strony szkoły
+W zakładce setting mozna zmienic aktualna klase.
+Po dodaniu nowego planu lekcji na strone szkoły aplikacja automatycznie powwina "złapać" nowy plan lekcji
